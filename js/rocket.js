@@ -1,7 +1,3 @@
-setTimeout(function(){
-	location.href = 'rocket.html';
-}, 2000);
-
 var timer = null;
 var countdownNumber = 10;
 
